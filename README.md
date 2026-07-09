@@ -6,10 +6,6 @@ A Streamlit web application that predicts breast cancer using a trained Machine 
 
 🌐 [Click here to visit the live app](https://breast-cancer-prediction-piot9spiqoeos9kpwv8u9u.streamlit.app/)
 
-## 📂 GitHub Repository
-
-https://github.com/usmankhan-333/Breast-Cancer-Prediction
-
 ## Project Overview
 
 The Breast Cancer Prediction Model is a machine learning project aimed at predicting whether a breast tumor is malignant or benign based on various diagnostic features. This project leverages data science and machine learning techniques to build a predictive model and deploy it as an interactive web application using Streamlit.
