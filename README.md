@@ -1,4 +1,14 @@
-# Breast Cancer Prediction Model
+# 🩺 Breast Cancer Prediction Model using Machine Learning
+
+A Streamlit web application that predicts breast cancer using a trained Machine Learning model.
+
+## 🚀 Live Demo
+
+🌐 [Click here to visit the live app](https://breast-cancer-prediction-piot9spiqoeos9kpwv8u9u.streamlit.app/)
+
+## 📂 GitHub Repository
+
+https://github.com/usmankhan-333/Breast-Cancer-Prediction
 
 ## Project Overview
 
@@ -30,6 +40,15 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 - **Data Visualization:** Use `matplotlib` and `seaborn` for visualizing data distributions and relationships between features.
 - **Model Building:** Use `scikit-learn` for training and evaluating machine learning models, such as Logistic Regression, Random Forest, or Support Vector Machines.
 - **Web Application:** Deploy the model using `streamlit` to create an interactive interface for users to input data and receive predictions.
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- NumPy
+- Joblib
 
 ## Requirements
 
